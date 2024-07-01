@@ -3,32 +3,35 @@ This project focuses on developing a predictive model to assess the risk of cerv
 
 <h3>Objectives</h3>
 <ul>
-<li>Data Collection and Preprocessing: Gather and preprocess relevant datasets that include features related to cervical cancer risk such as age, sexual history, smoking habits, HPV status, etc.</li>
-<li>Feature Selection: Identify and select the most significant features that contribute to cervical cancer risk.</li>
-<li>Model Development: Develop and train various machine learning models (e.g., logistic regression, decision trees, random forests, SVMs, neural networks) to predict cervical cancer risk.</li>
-<li>Model Evaluation: Evaluate the models using metrics like accuracy, precision, recall, F1-score, and AUC-ROC to determine the best-performing model.</li>
-<li>Deployment: Deploy the best model in a user-friendly application that can be used by healthcare professionals to assess risk in real-time.</li>
+<li><b>Data Collection and Preprocessing:</b> Gather and preprocess relevant datasets that include features related to cervical cancer risk such as age, sexual history, smoking habits, HPV status, etc.</li>
+<li><b>Feature Selection:</b> Identify and select the most significant features that contribute to cervical cancer risk.</li>
+<li><b>Model Development:</b> Develop and train various machine learning models (e.g., logistic regression, decision trees, random forests, SVMs, neural networks) to predict cervical cancer risk.</li>
+<li><b>Model Evaluation:</b> Evaluate the models using metrics like accuracy, precision, recall, F1-score, and AUC-ROC to determine the best-performing model.</li>
+<li><b>Deployment:</b> Deploy the best model in a user-friendly application that can be used by healthcare professionals to assess risk in real-time.</li>
   </ul>
-Methodology
-Data Collection: Obtain datasets from reliable medical sources, such as the UCI Machine Learning Repository or medical institutions that have anonymized patient records.
-Preprocessing:
+<h3>Methodology</h3>
+<ol>
+<li>Data Collection: Obtain datasets from reliable medical sources, such as the UCI Machine Learning Repository or medical 
+  institutions that have anonymized patient records.</li>
+<li>Preprocessing:</li>
 Handle missing values and outliers.
 Normalize and standardize data as needed.
 Encode categorical variables.
-Exploratory Data Analysis (EDA):
+<li>Exploratory Data Analysis (EDA):</li>
 Visualize data distributions and relationships between features.
 Use statistical methods to understand data characteristics.
-Feature Engineering: Create new features if necessary and perform dimensionality reduction techniques like PCA if required.
-Model Training:
+<li>Feature Engineering: Create new features if necessary and perform dimensionality reduction techniques like PCA if required.</li>
+<li>Model Training:</li>
 Split the data into training and testing sets.
 Train multiple machine learning models.
 Use cross-validation to ensure robustness.
-Model Selection:
+<li>Model Selection:</li>
 Compare models based on evaluation metrics.
 Perform hyperparameter tuning on the best models.
-Deployment:
+<li>Deployment:</li>
 Use frameworks like Flask or Django for web application deployment.
 Ensure the application is secure and user-friendly.
+</ol>
 Expected Outcomes
 Risk Prediction Tool: A tool that can predict the risk of cervical cancer based on input features.
 Early Detection: Aid in early detection and intervention, potentially reducing cervical cancer mortality rates.
