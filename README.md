@@ -3,11 +3,11 @@ This project focuses on developing a predictive model to assess the risk of cerv
 
 <h3>Objectives</h3>
 <ul>
-<ol>Data Collection and Preprocessing: Gather and preprocess relevant datasets that include features related to cervical cancer risk such as age, sexual history, smoking habits, HPV status, etc.</ol>
-Feature Selection: Identify and select the most significant features that contribute to cervical cancer risk.
-Model Development: Develop and train various machine learning models (e.g., logistic regression, decision trees, random forests, SVMs, neural networks) to predict cervical cancer risk.
-Model Evaluation: Evaluate the models using metrics like accuracy, precision, recall, F1-score, and AUC-ROC to determine the best-performing model.
-Deployment: Deploy the best model in a user-friendly application that can be used by healthcare professionals to assess risk in real-time.
+<li>Data Collection and Preprocessing: Gather and preprocess relevant datasets that include features related to cervical cancer risk such as age, sexual history, smoking habits, HPV status, etc.</li>
+<li>Feature Selection: Identify and select the most significant features that contribute to cervical cancer risk.</li>
+<li>Model Development: Develop and train various machine learning models (e.g., logistic regression, decision trees, random forests, SVMs, neural networks) to predict cervical cancer risk.</li>
+<li>Model Evaluation: Evaluate the models using metrics like accuracy, precision, recall, F1-score, and AUC-ROC to determine the best-performing model.</li>
+<li>Deployment: Deploy the best model in a user-friendly application that can be used by healthcare professionals to assess risk in real-time.</li>
   </ul>
 Methodology
 Data Collection: Obtain datasets from reliable medical sources, such as the UCI Machine Learning Repository or medical institutions that have anonymized patient records.
