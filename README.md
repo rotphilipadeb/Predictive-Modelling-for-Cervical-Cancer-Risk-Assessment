@@ -14,23 +14,33 @@ This project focuses on developing a predictive model to assess the risk of cerv
 <li>Data Collection: Obtain datasets from reliable medical sources, such as the UCI Machine Learning Repository or medical 
   institutions that have anonymized patient records.</li>
 <li>Preprocessing:</li>
-Handle missing values and outliers.
-Normalize and standardize data as needed.
-Encode categorical variables.
+  <ul>
+<li>Handle missing values and outliers.</li>
+<li>Normalize and standardize data as needed.</li>
+<li>Encode categorical variables.</li>
+  </ul>
 <li>Exploratory Data Analysis (EDA):</li>
-Visualize data distributions and relationships between features.
-Use statistical methods to understand data characteristics.
+  <ul>
+<li>Visualize data distributions and relationships between features.</li>
+<li>Use statistical methods to understand data characteristics.</li>
+  </ul>
 <li>Feature Engineering: Create new features if necessary and perform dimensionality reduction techniques like PCA if required.</li>
 <li>Model Training:</li>
-Split the data into training and testing sets.
-Train multiple machine learning models.
-Use cross-validation to ensure robustness.
+  <ul>
+<li>Split the data into training and testing sets.</li>
+<li>Train multiple machine learning models.</li>
+<li>Use cross-validation to ensure robustness.</li>
+  </ul>
 <li>Model Selection:</li>
-Compare models based on evaluation metrics.
-Perform hyperparameter tuning on the best models.
+  <ul>
+<li>Compare models based on evaluation metrics.</li>
+<li>Perform hyperparameter tuning on the best models.</li>
+  </ul>
 <li>Deployment:</li>
-Use frameworks like Flask or Django for web application deployment.
-Ensure the application is secure and user-friendly.
+  <ul>
+<li>Use frameworks like Flask or Django for web application deployment.</li>
+<li>Ensure the application is secure and user-friendly.</li>
+  </ul>
 </ol>
 Expected Outcomes
 Risk Prediction Tool: A tool that can predict the risk of cervical cancer based on input features.
