@@ -42,16 +42,14 @@ This project focuses on developing a predictive model to assess the risk of cerv
 <li>Ensure the application is secure and user-friendly.</li>
   </ul></p>
 </ol>
-Expected Outcomes
-Risk Prediction Tool: A tool that can predict the risk of cervical cancer based on input features.
-Early Detection: Aid in early detection and intervention, potentially reducing cervical cancer mortality rates.
-Preventive Healthcare: Provide healthcare professionals with insights to guide patient management and preventive measures.
-Potential Challenges
-Data Quality: Ensuring high-quality and relevant data.
-Model Interpretability: Making sure the model’s predictions are interpretable for healthcare professionals.
-Ethical Concerns: Handling sensitive medical data with privacy and ethical considerations.
-Conclusion
-This project aims to leverage machine learning for a significant impact on public health by predicting cervical cancer risk. Through rigorous data analysis, model development, and validation, the project will create a valuable tool for healthcare providers, potentially leading to better patient outcomes and efficient healthcare delivery.
+<h3>Expected Outcomes</h3>
+<p><b>Risk Prediction Tool:</b> A tool that can predict the risk of cervical cancer based on input features.</p>
+<p><b>Early Detection:</b> Aid in early detection and intervention, potentially reducing cervical cancer mortality rates.</p>
+<p><b>Preventive Healthcare:</b> Provide healthcare professionals with insights to guide patient management and preventive measures.</p>
+<h3>Potential Challenges</h3>
+
+<h3>Conclusion</h3>
+<p>This project aims to leverage machine learning for a significant impact on public health by predicting cervical cancer risk. Through rigorous data analysis, model development, and validation, the project will create a valuable tool for healthcare providers, potentially leading to better patient outcomes and efficient healthcare delivery.</p>
 
 
 
