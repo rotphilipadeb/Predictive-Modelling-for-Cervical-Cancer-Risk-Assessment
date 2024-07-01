@@ -1,6 +1,7 @@
 # Predictive-Modelling-for-Cervical-Cancer-Risk-Assessment
 This project focuses on developing a predictive model to assess the risk of cervical cancer using machine learning techniques. The model will analyze various medical and demographic features to predict the likelihood of an individual developing cervical cancer. This can be instrumental in early detection and preventive healthcare measures.
-
+<img src="cervical-cancer.jpg" alt="cervical-cancer" width="800" height="600">
+<p><i>Source: https://www.moffitt.org/endeavor/archive/why-are-advanced-stage-cervical-cancer-cases-rising/</i></p>
 <h3>Objectives</h3>
 <ul>
 <li><b>Data Collection and Preprocessing:</b> Gather and preprocess relevant datasets that include features related to cervical cancer risk such as age, sexual history, smoking habits, HPV status, etc.</li>
